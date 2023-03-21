@@ -1,0 +1,68 @@
+const Items = [
+  {
+    id: "1",
+    img: "https://images-eu.ssl-images-amazon.com/images/I/71S1IqS7V0L._AC_UL160_SR160,160_.jpg",
+    title: "Lindt Excellence 70% Cocoa Dark Chocolate,<br/>100g",
+    rate: "2,843",
+    price: "255.00",
+    unit: "255/100g",
+  },
+  {
+    id: "2",
+    img: "https://images-eu.ssl-images-amazon.com/images/I/61oeeFMSVcL._AC_UL160_SR160,160_.jpg",
+    title: "Amul 99% Cacao Chocolate, 125g",
+    rate: "7,919",
+    price: "320.00",
+    unit: "128/100g",
+  },
+  {
+    id: "3",
+    img: "https://images-eu.ssl-images-amazon.com/images/I/91tIhm4vlnL._AC_UL160_SR160,160_.jpg",
+    title: "The whole Truth Dark Chocolate - Orange",
+    rate: "360",
+    price: "435.00",
+    unit: "278.22/100g",
+  },
+  {
+    id: "4",
+    img: "https://images-eu.ssl-images-amazon.com/images/I/718ZEo60WUL._AC_UL160_SR160,160_.jpg",
+    title: "Didier & Frank Wincked 35% Cocoa Dark Chocolate",
+    rate: "200",
+    price: "159.00",
+    unit: "159/count",
+  },
+  {
+    id: "5",
+    img: "https://images-eu.ssl-images-amazon.com/images/I/51f87Kl+-BL._AC_UL160_SR160,160_.jpg",
+    title: "BOGATCHI 99.99% Dark Handcraft Chocolate",
+    rate: "493",
+    price: "291.00",
+    unit: "363.75/100g",
+  },
+  {
+    id: "6",
+    img: "https://images-eu.ssl-images-amazon.com/images/I/51rL24eGTqS._AC_UL160_SR160,160_.jpg",
+    title: "Toblerone Dark Chocolate with Honey and Almond Nougat",
+    rate: "619",
+    price: "348.00",
+    unit: "174.50/100g",
+  },
+  {
+    id: "7",
+    img: "https://images-eu.ssl-images-amazon.com/images/I/710b6sVJ3ZL._AC_UL160_SR160,160_.jpg",
+    title: "Cadbury Bournville Rich Cocoa 70% Dark Chocolate Bar",
+    rate: "4,054",
+    price: "100.00",
+    unit: "100/100g",
+  },
+  {
+    id: "8",
+    img: "https://images-eu.ssl-images-amazon.com/images/I/61hn+Olvs5L._AC_UL160_SR160,160_.jpg",
+    title: "Excellence Orange Intense Dark Chocolate",
+    rate: "136",
+    price: "150.00",
+    unit: "50/count",
+  },
+];
+
+export default Items;
